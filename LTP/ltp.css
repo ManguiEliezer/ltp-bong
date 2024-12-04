@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: grey;
+}
+.container{
+    background-color: white;
+    border-radius: 10px;
+    margin: 50px;
+    border: 1px solid;
+    height: 14in;
+    width: 8.5in;
+ 
+}
+
+img{
+    margin: 4% 0px 0px 40px;
+    width: 160px;
+    height: 160px;
+}
+
+.title {
+    position: relative;
+    font-size: 85%;
+    top: -135px;
+    left: 220px;
+    
+}
+
+.title-blue{
+    color: blue;
+}
+
+.title5 {
+    line-height: 130%;
+}
+
+.main-content{
+    position: relative;
+    margin: 70px;
+    top: -140px;
+}
+
+.ltp-permit{
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.date-no{
+    text-align: right;
+}
+
+.ltp-date input{
+    padding-top: 15px;
+    border: none;
+    border-bottom: solid 1px black;
+}
+
+.ltp-no input{
+    padding-top: 5px;
+    width: 50px;
+    border: none;
+    border-bottom: 1px solid black;
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.content1{
+    display: flex;
+    padding-top: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.tableA{
+    margin-top: 50px;
+}
+
+table, th,td{
+    text-align: center;
+    border: 1px solid;
+    
+}
+
+.checkbox td{
+    padding: 10px;
+    text-align: justify;
+    text-justify: inter-word;
+    border-right-style: hidden;
+    border-left-style: hidden;
+
+}
+
+.dry-seal .quar {
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: left;
+    border-style:  hidden;
+}
+.dry-seal img{
+   margin: 0%;
+   
+  
+}
+
+.dry-seal .quar1{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.dry-seal .quar2{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
